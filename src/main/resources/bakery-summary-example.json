@@ -1,0 +1,218 @@
+[
+  {
+    "date": "2017-03-04",
+    "transactionId": 7602,
+    "itemsSummary": {
+      "Soup": 1,
+      "Cookies": 1,
+      "Scone": 1,
+      "Mineral water": 1,
+      "Coffee": 1,
+      "Truffles": 1,
+      "Salad": 1,
+      "Bread": 1
+    }
+  },
+  {
+    "date": "2017-02-17",
+    "transactionId": 6716,
+    "itemsSummary": {
+      "Sandwich": 1,
+      "Soup": 1,
+      "Tea": 1,
+      "Chicken Stew": 1,
+      "Medialuna": 1,
+      "Tiffin": 1,
+      "Coke": 1,
+      "Coffee": 1,
+      "Bread": 1
+    }
+  },
+  {
+    "date": "2017-04-07",
+    "transactionId": 9534,
+    "itemsSummary": {
+      "Sandwich": 1,
+      "Chicken Stew": 1,
+      "Coke": 1,
+      "Cake": 1,
+      "Juice": 1,
+      "Coffee": 1,
+      "Truffles": 1,
+      "Salad": 1,
+      "Alfajores": 1
+    }
+  },
+  {
+    "date": "2016-12-22",
+    "transactionId": 3673,
+    "itemsSummary": {
+      "Brownie": 1,
+      "Cookies": 1,
+      "Cake": 1,
+      "Muffin": 1,
+      "Bare Popcorn": 1,
+      "Juice": 1,
+      "Panatone": 1,
+      "Art Tray": 1,
+      "Coffee": 1,
+      "NONE": 1
+    }
+  },
+  {
+    "date": "2017-02-12",
+    "transactionId": 6474,
+    "itemsSummary": {
+      "Chicken Stew": 1,
+      "Tea": 1,
+      "Duck egg": 1,
+      "Toast": 1,
+      "Brownie": 1,
+      "Cookies": 1,
+      "Extra Salami or Feta": 1,
+      "NONE": 1,
+      "Coffee": 1,
+      "Bread": 1
+    }
+  },
+  {
+    "date": "2017-03-26",
+    "transactionId": 8835,
+    "itemsSummary": {
+      "Sandwich": 1,
+      "Tea": 1,
+      "Granola": 1,
+      "Medialuna": 1,
+      "Cake": 1,
+      "Muffin": 1,
+      "Hot chocolate": 1,
+      "Coffee": 1,
+      "NONE": 1,
+      "Bread": 1
+    }
+  },
+  {
+    "date": "2017-04-05",
+    "transactionId": 9447,
+    "itemsSummary": {
+      "Tea": 1,
+      "Tiffin": 1,
+      "Cookies": 1,
+      "Coke": 1,
+      "Mineral water": 1,
+      "Juice": 1,
+      "Pastry": 1,
+      "Coffee": 1,
+      "Chocolates": 1,
+      "Alfajores": 1
+    }
+  },
+  {
+    "date": "2017-03-04",
+    "transactionId": 7602,
+    "itemsSummary": {
+      "Soup": 1,
+      "Cookies": 1,
+      "Scone": 1,
+      "Mineral water": 1,
+      "Coffee": 1,
+      "Truffles": 1,
+      "Salad": 1,
+      "Bread": 1
+    }
+  },
+  {
+    "date": "2017-02-17",
+    "transactionId": 6716,
+    "itemsSummary": {
+      "Sandwich": 1,
+      "Soup": 1,
+      "Tea": 1,
+      "Chicken Stew": 1,
+      "Medialuna": 1,
+      "Tiffin": 1,
+      "Coke": 1,
+      "Coffee": 1,
+      "Bread": 1
+    }
+  },
+  {
+    "date": "2017-04-07",
+    "transactionId": 9534,
+    "itemsSummary": {
+      "Sandwich": 1,
+      "Chicken Stew": 1,
+      "Coke": 1,
+      "Cake": 1,
+      "Juice": 1,
+      "Coffee": 1,
+      "Truffles": 1,
+      "Salad": 1,
+      "Alfajores": 1
+    }
+  },
+  {
+    "date": "2016-12-22",
+    "transactionId": 3673,
+    "itemsSummary": {
+      "Brownie": 1,
+      "Cookies": 1,
+      "Cake": 1,
+      "Muffin": 1,
+      "Bare Popcorn": 1,
+      "Juice": 1,
+      "Panatone": 1,
+      "Art Tray": 1,
+      "Coffee": 1,
+      "NONE": 1
+    }
+  },
+  {
+    "date": "2017-02-12",
+    "transactionId": 6474,
+    "itemsSummary": {
+      "Chicken Stew": 1,
+      "Tea": 1,
+      "Duck egg": 1,
+      "Toast": 1,
+      "Brownie": 1,
+      "Cookies": 1,
+      "Extra Salami or Feta": 1,
+      "NONE": 1,
+      "Coffee": 1,
+      "Bread": 1
+    }
+  },
+  {
+    "date": "2017-03-26",
+    "transactionId": 8835,
+    "itemsSummary": {
+      "Sandwich": 1,
+      "Tea": 1,
+      "Granola": 1,
+      "Medialuna": 1,
+      "Cake": 1,
+      "Muffin": 1,
+      "Hot chocolate": 1,
+      "Coffee": 1,
+      "NONE": 1,
+      "Bread": 1
+    }
+  },
+  {
+    "date": "2017-04-05",
+    "transactionId": 9447,
+    "itemsSummary": {
+      "Tea": 1,
+      "Tiffin": 1,
+      "Cookies": 1,
+      "Coke": 1,
+      "Mineral water": 1,
+      "Juice": 1,
+      "Pastry": 1,
+      "Coffee": 1,
+      "Chocolates": 1,
+      "Alfajores": 1
+    }
+  }
+]

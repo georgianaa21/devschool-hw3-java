@@ -1,0 +1,34 @@
+Homework:
+
+1. Read about exceptions https://docs.oracle.com/javase/tutorial/essential/exceptions/ . We will briefly go through exceptions again during the next session.
+2. (optional) Read about maven https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html . We will go into maven again at a later date, but for now it is good to know about it.
+3. (optional) Read about json (e.g. https://en.wikipedia.org/wiki/JSON )
+4. (optional) Read about csv (e.g. https://en.wikipedia.org/wiki/Comma-separated_values)
+
+5. Exercise CSV Converter:
+
+    Import in intellij the maven project found at https://github.com/cristiantoader/devschool-homeworks/tree/master/Session-3 . All the maven you need to know for this exercise is "mvn clean install" in the terminal tab of intellij.
+
+    You need to create an application that:
+        1. reads a csv file found in src/main/java/resources/bakery-transactions.csv using opencsv library found in project:
+            - examples of reading CSV files with opencsv: https://www.baeldung.com/opencsv
+        2. aggregates transactions by the transaction id (need to see all transactions belonging to a transaction id)
+        3. sorts the transactions based on the number of items belonging to a transaction id
+        2. writes a json file in src/main/java/resources/bakery-summary.json which contains an array of summaries:
+            - example of writing json files with jackson: https://www.baeldung.com/jackson-object-mapper-tutorial
+            - use following format:
+            {
+                "date": "the date from the input",
+                "transactionId": "the id of the transaction as a long",
+                "itemsSummary": "a map where the key is the item name, and the value is the count of the item name corresponding to this transaction id"
+            }
+
+    Sample output:
+    [{"date":"2016-10-30","transactionId":1,"itemsSummary":{"Bread":1}},{"date":"2016-10-30","transactionId":2,"itemsSummary":{"Scandinavian":1}},{"date":"2016-10-30","transactionId":4,"itemsSummary":{"Muffin":1}},{"date":"2016-10-30","transactionId":17,"itemsSummary":{"Hot chocolate":1, "Muffin": 5}}]
+
+    When writing your application you need to:
+    - take into account SOLID principles as much as possible (without compromising code readability)
+    - make use of the appropriate collections
+    - exceptions that you encounter
+        - are captured as early as possible and (if needed) a DevSchoolException (checked exception) is thrown in their place
+        - logged without killing the process
